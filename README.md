@@ -16,7 +16,7 @@ El proyecto LiterAlura implica realizar solicitudes a una API de libros (API Gut
 - Spring Data JPA
 - Postgres Driver
 
-# Funcionalidades ⚙️
+# Funcionalidades 
 - Configuración del Ambiente Java.
 - Creación del Proyecto.
 - Consumo de la API.
